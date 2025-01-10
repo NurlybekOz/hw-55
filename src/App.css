@@ -1,3 +1,27 @@
+.ingredient{
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  align-items: center;
+  padding: 10px;
+}
+.FastFood{
+  margin-left: 100px;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+.addIngredient {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
+.ingredient img{
+  width: 80px;
+  height: 80px;
+}
 .BreadBottom {
   height: 13%;
   width: 80%;
